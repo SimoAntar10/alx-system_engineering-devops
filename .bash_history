@@ -278,3 +278,58 @@ git push
 git push --set-upstream origin master
 git pull origin master
 exit
+cd root
+ls
+cd alx-system_engineering-devops
+ls
+cd 0x02-shell_redirections
+ls
+git pull origin master --allow-unrelated-histories
+ls
+rmdir alx-system_engineering-devops
+git add .
+rm -rf alx-system_engineering-devops
+ls
+git add .
+git commit -m "task 0"
+clear
+ls
+git add .
+git commit -m "0-Hello_World"
+clear
+ls
+git add .
+git commit -m "task_0"
+git add ../../.bash_history
+git add ../../.bashrc
+git add ../../.cache/
+git add ../../.gitconfig
+git add ../../.profile
+git add ../../.viminfo
+git add ../../0x01_emacs/
+git add ../../0x02_emacs/
+git add ../../0x02_vi/
+git add ../../0x03_vi/
+git add ../0x00-shell_basics/
+git add ../README.md
+git add ../../alx-zero_day/
+git add ../../new_school
+git add ../../old
+git add ../../opening
+git add ../../school
+git add ../../school_is-amazing
+git add ../../so_cool
+git add ../../zero_day/
+git commit -m "task 0"
+git push
+git push --set-upstream origin master
+ls
+cat 0-hello_world
+vi 1-confused_smiley
+cat 1-confused_smiley
+vi 1-confused_smiley
+cat 1-confused_smiley
+git add .
+git commit -m "task_1"
+git push
+exit
